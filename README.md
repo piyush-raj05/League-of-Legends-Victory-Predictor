@@ -1,5 +1,6 @@
 
-# League of Legends Win predictor 
+<h1> League or Legends Win Predictor </h1>
+<img src="lol/jpg">
 
 Classify LoL ranked games outcomes by looking at the first 10 minutes worth of data.
 
